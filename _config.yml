@@ -40,13 +40,11 @@ plugins:
 
 navigation:
   - title: "Home"
-    url: /
+    url: /portfolio/
   - title: "About"
-    url: /about/
+    url: /portfolio/about/
   - title: "Projects"
-    url: /projects/
-  - title: "Contact"
-    url: /contact/
+    url: /portfolio/projects/
 #theme: minima
 #plugins:
 #- jekyll-feed
