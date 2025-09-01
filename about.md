@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-permalink: /about/
+permalink: /portfolio/about/
 ---
 
 Hi I’m **Priyanjali Patel**, a Data Scientist with a Ph.D. in Astrophysics. 
