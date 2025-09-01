@@ -1,0 +1,60 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+# Site settings
+title: "Priyanjali Patel"
+email: "priyanjalipatel@gmail.com"
+description: >-
+  Data Scientist | PhD in Astrophysics
+
+# If repo is named "priyanjalipatel.github.io"
+url: "https://priyanjalipatel.github.io"
+baseurl: "/portfolio"  
+
+# If repo is NOT named "priyanjalipatel.github.io" (e.g. "portfolio")
+# url: "https://priyanjalipatel.github.io"
+# baseurl: "/portfolio"
+
+github_username: priyanjalipatel
+
+# Build settings
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+#theme: minima
+#plugins:
+#- jekyll-feed
+
+author:
+  name: "Priyanjali Patel"
+  email: "priyanjalipatel@gmail.com"
+
+social_links:
+  github: https://github.com/priyanjalipatel
+  linkedin: https://www.linkedin.com/in/priyanjalipatel
+  kaggle: https://www.kaggle.com/priyanjalipatel
+  scholar: https://scholar.google.com/citations?hl=en&user=Ola1DfwAAAAJ
+  medium: https://medium.com/@priya_85674
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
