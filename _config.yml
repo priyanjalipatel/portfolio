@@ -37,6 +37,16 @@ github_username: priyanjalipatel
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
+
+navigation:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Contact"
+    url: /contact/
 #theme: minima
 #plugins:
 #- jekyll-feed
