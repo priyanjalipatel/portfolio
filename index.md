@@ -1,18 +1,13 @@
 ---
 layout: default
-title: "Home"
+title: Home
 ---
 
-# Welcome ✨  
-I am **Priyanjali Patel**, a Data Scientist and PhD in Astrophysics. 
-I work on applied machine learning, LLM systems, and multi-agent AI. 
+# Welcome ✨
 
-## Projects
-- [Financial Chatbot (Omdena)](https://github.com/priyanjalipatel)
-- [GitHub Refactoring Assistant (S2DS)](https://github.com/priyanjalipatel)
-- [Quasar Variability Research](https://scholar.google.com/citations?hl=en&user=Ola1DfwAAAAJ)
+I’m **Priyanjali Patel**, a Data Scientist with a Ph.D. in Astrophysics. 
 
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/priyanjalipatel) 
-- [GitHub](https://github.com/priyanjalipatel) 
-- [Medium](https://medium.com/@priya_85674) 
+I specialize in applied machine learning, large language models (LLMs), and multi-agent AI systems. 
+My mission is to build impactful, ethical, and transparent AI solutions. 
+
+[Learn more about me](/portfolio/about/) 
