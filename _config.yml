@@ -3,27 +3,25 @@ email: "priyanjalipatel@gmail.com"
 description: >-
   Data Scientist | PhD in Astrophysics
 
+# Site URL settings
 url: "https://priyanjalipatel.github.io"
-baseurl: "/portfolio"
+baseurl: "/portfolio"   # because repo is 'portfolio'
 
-github_username: priyanjalipatel
+# Theme
+theme: minima
 
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-  - jekyll-remote-theme
+# Show pages in header menu
+header_pages:
+  - about.md
+  - projects.md
+  - contact.md
 
-navigation:
-  - title: "Home"
-    url: /portfolio/
-  - title: "About"
-    url: /portfolio/about/
-  - title: "Projects"
-    url: /portfolio/projects/
-
+# Author info
 author:
   name: "Priyanjali Patel"
   email: "priyanjalipatel@gmail.com"
 
+# Social links
 social_links:
   github: https://github.com/priyanjalipatel
   linkedin: https://www.linkedin.com/in/priyanjalipatel
@@ -31,6 +29,7 @@ social_links:
   scholar: https://scholar.google.com/citations?hl=en&user=Ola1DfwAAAAJ
   medium: https://medium.com/@priya_85674
 
+# Exclude unnecessary files from build
 exclude:
   - Gemfile
   - Gemfile.lock
