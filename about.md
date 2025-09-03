@@ -11,4 +11,4 @@ I specialize in applied machine learning, large language models (LLMs), and mult
 - Applied Machine Learning & LLMs 
 - Multi-agent AI and RAG systems 
 - Data visualization and scientific computing 
-- Ethical AI & transparency 
+- Ethical AI & transparency

@@ -1,8 +1,12 @@
 title: "Priyanjali Patel"
-description: "Data Scientist | PhD in Astrophysics"
+email: "priyanjalipatel@gmail.com"
+description: >-
+  Data Scientist | PhD in Astrophysics
 
 url: "https://priyanjalipatel.github.io"
-baseurl: "/portfolio"   # IMPORTANT since repo is 'portfolio'
+baseurl: "/portfolio"
+
+github_username: priyanjalipatel
 
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
@@ -15,3 +19,20 @@ navigation:
     url: /portfolio/about/
   - title: "Projects"
     url: /portfolio/projects/
+
+author:
+  name: "Priyanjali Patel"
+  email: "priyanjalipatel@gmail.com"
+
+social_links:
+  github: https://github.com/priyanjalipatel
+  linkedin: https://www.linkedin.com/in/priyanjalipatel
+  kaggle: https://www.kaggle.com/priyanjalipatel
+  scholar: https://scholar.google.com/citations?hl=en&user=Ola1DfwAAAAJ
+  medium: https://medium.com/@priya_85674
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
